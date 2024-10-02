@@ -1,4 +1,4 @@
-##PetGuardina AI
+## PetGuardina AI
 
 Final project for the Building AI course
 
